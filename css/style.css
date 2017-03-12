@@ -185,6 +185,8 @@ img.left {
      padding-left: 20px;
    }
 
+   /*tablet view*/
+
    @media (max-width: 768px) {
      .logo {
        margin-left: 150px;
@@ -236,6 +238,7 @@ img.left {
      }
    }
 
+/*mobile view*/
 
    @media (max-width: 480px) {
      .logo {
