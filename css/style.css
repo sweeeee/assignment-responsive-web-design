@@ -252,7 +252,7 @@ img.left {
      .toppanel h2{
       margin-left: 50px;
       margin-right: 50px;
-      max-width: 300px;
+      max-width: 350px;
      }
 
      .toppanel button {
@@ -262,30 +262,30 @@ img.left {
      .secondpanel h1 {
        margin-left: 50px;
        margin-right: 50px;
-       max-width: 300px;
+       max-width: 350px;
      }
 
      .secondpanel p {
       padding-left: 50px;
       padding-right: 50px;
-      width: 300px;
+      width: 350px;
      }
 
      .secondpanel ul {
       padding-left: 65px;
       padding-right: 65px;
-      width: 300px;
+      width: 350px;
      }
 
      .thirdpanel h1 {
       padding-left: 50px;
       padding-right: 50px;
-      max-width: 300px;
+      max-width: 350px;
      }
 
      .thirdpanel h2 {
       padding-left: 50px;
       padding-right: 50px;
-      max-width: 300px;
+      width: 350px;
      }
    }
