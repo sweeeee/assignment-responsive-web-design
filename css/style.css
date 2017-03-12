@@ -240,7 +240,7 @@ img.left {
 
 /*mobile view*/
 
-   @media (max-width: 480px) {
+   @media (max-width: 375px) {
      .logo {
        margin-left: 50px;
      }
@@ -251,7 +251,7 @@ img.left {
 
      .toppanel h2{
       margin-left: 50px;
-      /*margin-right: 50px;*/
+      margin-right: 50px;
       max-width: 300px;
      }
 
@@ -261,31 +261,31 @@ img.left {
 
      .secondpanel h1 {
        margin-left: 50px;
-       /*margin-right: 50px;*/
+       margin-right: 50px;
        max-width: 300px;
      }
 
      .secondpanel p {
       padding-left: 50px;
-      /*padding-right: 50px;*/
+      padding-right: 50px;
       width: 300px;
      }
 
      .secondpanel ul {
       padding-left: 65px;
-      /*padding-right: 65px;*/
+      padding-right: 65px;
       width: 300px;
      }
 
      .thirdpanel h1 {
       padding-left: 50px;
-      /*padding-right: 50px;*/
+      padding-right: 50px;
       max-width: 300px;
      }
 
      .thirdpanel h2 {
       padding-left: 50px;
-      /*padding-right: 50px;*/
+      padding-right: 50px;
       max-width: 300px;
      }
    }
